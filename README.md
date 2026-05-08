@@ -1,4 +1,4 @@
-# Marc Bourrel
+# Marc Bourrel aka. Joo
 
 DevOps & Cloud Architect freelance. Founder of [Joopin's Lab](https://joopinslab.com). Based in Toulouse.
 
