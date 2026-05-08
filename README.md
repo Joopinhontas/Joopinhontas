@@ -10,11 +10,11 @@ My take: production incidents don't happen because of missing technology. They h
 
 ## What I build
 
-**Automation tools** — I use Claude API to build things I actually need. LinkedIn agent that posts every Monday without me touching it. Invoice processor that reads Gmail, classifies with a local LLM, and uploads to accounting. Claude Code hooks that back up files before AI touches them and block dangerous commands before they run.
+**Automation tools.** I use Claude API to build things I actually need. LinkedIn agent that posts every Monday without me touching it. Invoice processor that reads Gmail, classifies with a local LLM, and uploads to accounting. Claude Code hooks that back up files before AI touches them and block dangerous commands before they run.
 
-**Infrastructure** — Kubernetes, Docker Swarm, OpenStack, VMware Tanzu. Azure when the client needs it. GitLab CI pipelines hardened from the start, not patched after an incident.
+**Infrastructure.** Kubernetes, Docker Swarm, OpenStack, VMware Tanzu. Azure when the client needs it. GitLab CI pipelines hardened from the start, not patched after an incident.
 
-**Observability** — Grafana, Prometheus, Loki. I don't guess what's broken. I see it.
+**Observability.** Grafana, Prometheus, Loki. I don't guess what's broken. I see it.
 
 ---
 
