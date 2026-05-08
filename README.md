@@ -30,7 +30,17 @@ My take: production incidents don't happen because of missing technology. They h
 
 ## Stack
 
-`Kubernetes` `Docker` `Terraform` `Ansible` `GitLab CI` `Azure` `Grafana` `Prometheus` `Loki` `Python` `Claude API` `Ollama`
+**Orchestration** `Kubernetes` `Docker` `Docker Swarm` `VMware Tanzu` `OpenStack` `Helm`
+
+**IaC & CI/CD** `Terraform` `Ansible` `GitLab CI` `Azure DevOps` `Artifactory` `Cloud-Init`
+
+**Observability** `Grafana` `Prometheus` `Loki` `Aria for Logs`
+
+**Cloud & Security** `Azure` `Azure Key Vault` `Azure Security Center` `RBAC` `Network Policies` `Keycloak`
+
+**AI & Automation** `Claude API` `Ollama` `Python` `Shell`
+
+**Networking** `Cisco` `StormShield` `VPN` `Intune` `Microsoft Defender`
 
 ---
 
