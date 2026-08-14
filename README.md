@@ -36,6 +36,7 @@ Open core under the Elastic License, with a commercial engine that also catches 
 |---|---|
 | [tokenveil-oss](https://github.com/Joopinhontas/tokenveil-oss) | Reversible data anonymization for LLMs. Self-hosted, Docker, multi-AI. |
 | [claude-code-hooks](https://github.com/Joopinhontas/claude-code-hooks) | Ready-to-use hooks for Claude Code: auto-backup, guard, notifications |
+| [claude-repo-audit](https://github.com/Joopinhontas/claude-repo-audit) | Grade any Git repo: secret leaks, hygiene, and a Vibe Score. Claude skill + zero-dep scanner. |
 | [linkedin-agent](https://github.com/Joopinhontas/linkedin-agent) | Autonomous LinkedIn posting via Claude API. Costs $2/year. |
 | [factures-agent](https://github.com/Joopinhontas/factures-agent) | Gmail to accounting pipeline. 100% local, zero cloud cost. |
 
